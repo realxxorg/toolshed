@@ -1,0 +1,25 @@
+
+
+
+usb formatting, bootable usb
+rufus.ie
+
+ad blocking, tracker blocking:
+ublock origin
+privacy badger
+
+
+
+other extensions for search browser:
+dark reader
+dearrow (removes cringe yt thumbnails and fake titles)
+
+encryption and communication:
+kleopatra
+libretranslate
+onionshare file share
+
+
+
+virtual machines:
+virtual box
